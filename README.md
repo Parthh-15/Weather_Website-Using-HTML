@@ -38,9 +38,6 @@ Make sure you have an active internet connection
 Enter a city name (for city-based widget) or click the button
 🌐 API Used
 Open-Meteo Weather API
-URL: https://api.open-meteo.com
-Free to use
-No authentication required
 🎯 Learning Outcomes
 Understand how the Fetch API works
 Learn how to handle JSON responses
